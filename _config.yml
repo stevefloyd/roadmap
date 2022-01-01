@@ -9,12 +9,12 @@
 #######
 # SITE SETTINGS
 #
-title: timelinejs-template
+title: near roadmap
 description: "basic template for self-hosted TimelineJS"
-year: 2020
-author: evan will 
+year: 2021
+author: steve floyd 
 # add search box to navbar, true/false
-search: false
+search: true
 
 #######
 # SITE URLs
