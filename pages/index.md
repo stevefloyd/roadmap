@@ -1,6 +1,6 @@
 ---
 title:
-layout: pages
+layout: page
 # add TimelineJS
 timeline: demo-timeline
 timeline-options:
