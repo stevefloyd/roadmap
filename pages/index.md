@@ -4,5 +4,5 @@ layout: page
 # add TimelineJS
 timeline: demo-timeline
 timeline-options:
-  hash_bookmark: true
+  hash_bookmark: false
 ---
