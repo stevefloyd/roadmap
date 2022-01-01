@@ -1,6 +1,6 @@
 ---
-title: Example Page
-nav: Example
+title: 
+nav: 
 nav_order: 1
 # Add timelinejs
 timeline-json: example-timeline.json
