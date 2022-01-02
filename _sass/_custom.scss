@@ -13,8 +13,17 @@ body {
     padding: 0.9rem 1rem;
     border-bottom: 1px solid #f3f3f3;
 }
+.navbar-brand {
+    margin-right: 4rem!important;
+}
 .navbar-light .navbar-toggler {
     border-color:#ffffff!important;
+}
+.navbar-expand-lg .navbar-collapse {
+    padding-top: 4px;
+}
+.navbar-expand-lg .navbar-nav {
+    margin-top: 4px;
 }
 .tl-timeline h1, .tl-timeline h2, .tl-timeline h3, .tl-timeline h4, .tl-timeline h5, .tl-timeline h6 {
     font-family: Manrope,sans-serif!important; 
@@ -23,11 +32,4 @@ body {
     font-family: Manrope,sans-serif!important; 
     font-size: .825rem;
     line-height: 1.4em;
-}
-.navbar-expand-lg .navbar-collapse {
-    padding-top: 4px;
-}
-.navbar-expand-lg .navbar-nav {
-    margin-top: 4px;
-    margin-left: 20px;
 }
