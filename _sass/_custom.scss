@@ -6,3 +6,7 @@
     padding: 0.9rem 1rem;
     border-bottom: 1px solid #f3f3f3;
 }
+@media (min-width: 992px)
+.navbar-expand-lg .navbar-collapse {
+    padding-top: 4px;
+}
