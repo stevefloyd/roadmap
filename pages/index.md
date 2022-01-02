@@ -1,6 +1,6 @@
 ---
 title:
-layout: page
+layout: roadmap
 # add TimelineJS
 timeline: demo-timeline
 timeline-options:
