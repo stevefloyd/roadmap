@@ -1,6 +1,6 @@
 ---
 title: Roadmap
-nav: About
+nav: Roadmap
 nav_order: 2
 layout: page-narrow
 ---
