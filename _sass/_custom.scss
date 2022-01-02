@@ -42,6 +42,9 @@ body {
     font-size: .825rem!important;
     line-height: 1.4em!important;
 }
+.tl-text h2.tl-headline-title, .tl-text h2.tl-headline {
+    text-transform: capitalize!important;
+}    
 .tl-attribution {
     display: none!important;
 }
