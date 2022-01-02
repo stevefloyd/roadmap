@@ -13,6 +13,9 @@ body {
     padding: 0.9rem 1rem;
     border-bottom: 1px solid #f3f3f3;
 }
+.navbar-light .navbar-toggler {
+    border-color:#ffffff!important;
+}
 @media (min-width: 992px)
 .navbar-expand-lg .navbar-collapse {
     padding-top: 4px;
