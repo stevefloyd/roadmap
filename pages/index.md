@@ -15,7 +15,6 @@ layout: page
   <use class="text" xlink:href="#s-text"></use>
 </svg>
 </div>
-<br>
 <div class="jumbotron-fluid grey_light-block pt-5">
     <div class="container">
         <div class="timeline body white">
