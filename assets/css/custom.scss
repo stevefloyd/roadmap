@@ -275,7 +275,8 @@ $time-step: $time/$max;
 /* Other styles */
 
 .animated-text {
-  background-size: .2em 100%;
+  background: url(https://raw.githubusercontent.com/stevefloyd/roadmap/main/media/near-bg.jpg) no-repeat;
+  background-size: cover;
   font: 5em/1 Open Sans, Impact;
   text-transform: uppercase;
   margin: 0;
