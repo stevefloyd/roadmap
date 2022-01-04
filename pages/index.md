@@ -1,6 +1,6 @@
 ---
 title:
-layout: page
+layout: page full width
 ---
 
 <div class="animated-text">
