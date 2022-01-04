@@ -48,3 +48,10 @@ body {
 .tl-attribution {
     display: none!important;
 }
+.mt-3, .my-3 {
+    margin-top: 1rem!important;
+}
+container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    padding-right: 0!important;
+    padding-left: 0!important;
+}
