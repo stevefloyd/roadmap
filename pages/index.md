@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 
-<span class="animated-text">
+<div class="animated-text">
   <svg viewBox="0 0 600 200">
   <symbol id="s-text">
     <text text-anchor="middle" x="50%" y="50%" dy=".35em">Roadmap</text>
@@ -14,7 +14,7 @@ layout: page
   <use class="text" xlink:href="#s-text"></use>
   <use class="text" xlink:href="#s-text"></use>
 </svg>
-</span>
+</div>
 <br>
 <div class="jumbotron-fluid grey_light-block pt-5">
     <div class="container">
