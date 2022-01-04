@@ -4,7 +4,7 @@ layout: page
 ---
 
 <div class="animated-text">
-  <svg viewBox="0 0 20 200">
+  <svg viewBox="0 0 200 20">
   <symbol id="s-text">
     <text text-anchor="middle" x="50%" y="50%" dy=".35em">Roadmap</text>
   </symbol>
