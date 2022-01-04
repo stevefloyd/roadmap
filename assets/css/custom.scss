@@ -238,9 +238,6 @@ $dash-space: $dash * ($max - 1) + $dash-gap * $max;
 $time: 6s;
 $time-step: $time/$max;
 
-/* Main styles */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
-
 .text {
   fill: none;
   stroke-width: 3;
@@ -270,19 +267,6 @@ $time-step: $time/$max;
   100% {
     stroke-dashoffset: -($dash + $dash-gap) * $max;
   }
-}
-
-/* Other styles */
-html, body {
-  height: 100%;
-}
-
-body {
-  background: #111;
-  background-size: .2em 100%;
-  font: 5em/1 Open Sans, Impact;
-  text-transform: uppercase;
-  margin: 0;
 }
 
 svg {
